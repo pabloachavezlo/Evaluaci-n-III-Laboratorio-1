@@ -1,0 +1,56 @@
+.explore{
+  width: 37.5rem;
+  height: 3.5rem;
+
+  display: flex;
+  flex-direction: row;
+}
+.pa1{
+ color: black; 
+ font-size: large;
+ margin: 0.5rem;
+ margin-left: 14rem;
+
+ display: flex;
+ flex-direction: column;
+}
+.pa2{
+  color: black; 
+  font-size: large;
+  margin: 0.5rem;
+ margin-left: 8rem;
+ flex-direction: column;  
+}
+.link{
+  text-decoration: none;
+}
+.pa1:hover{
+  transition: 0.5s;
+  color: blue;
+  
+}
+
+.caja1{
+
+ width: 30.5rem ;
+ height: 18rem;
+
+ display: flex;
+ flex-direction: row;
+}
+.im1{
+max-width: 1rem;
+max-height: 1rem;
+margin: 0.5rem 0rem 0rem 0.5rem;
+flex-direction: column;
+}
+.lorem{
+margin-left: 1.5rem;
+margin-top: 1.5rem;
+flex-direction: column;
+
+}
+.cma{
+  margin-left: 1rem;
+  margin-top: 1rem;
+}

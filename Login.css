@@ -1,0 +1,79 @@
+.logo{
+    width: auto;
+    height: auto;
+    margin-left: 12rem; 
+    margin-right: 15rem;
+    margin-top: 8rem;
+    background-color: blue;
+
+}
+img{
+    border-radius: 6rem;
+    width: 12rem;
+    height: 12rem;
+}
+.primer{
+    
+    margin-top: 1rem;
+    margin-left: 5rem;
+   
+    width: 25rem;
+    height: 1rem;
+    border-radius: 2rem;
+}
+.correo{
+
+    margin-top: 7rem;
+    margin-left: 5.5rem;
+
+    color: green;
+    font-size: medium;
+}
+.segundo{
+    
+    margin-top: 1rem;
+    margin-left: 5rem;
+   
+    background-color: aqua;
+    width: 25rem;
+    height: 1rem;
+    border-radius: 2rem;
+}
+.contraseña{
+    margin-top: 7rem;
+    margin-left: 5.5rem;
+
+    color: green;
+    font-size: medium;
+}
+.olvidado{
+
+    margin-top: 2rem;
+    margin-left: 20rem;
+    
+    color: black;
+    font-size: small;  
+}
+.boton1{
+    margin-top: 6rem;
+    margin-left: 7rem;
+   
+    background-color: red;
+    width: 22rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+}
+.enter{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+.in{
+    text-decoration: none;
+
+}
+.boton1:hover{
+    transition: 0.5s;
+    background-color: black;
+    width: 24;
+}
